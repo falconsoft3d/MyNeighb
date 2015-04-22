@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+#page1{
+	background-color: #e2aa72;
+}
+
+.wrapper{
+	width: 86%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#footer{
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+}
+
+.mylogo{
+	width: 50%;
+	height: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	
+}
+
